@@ -1,0 +1,12 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰øÆïşÿÿÿÿ8Ô±É“Ç1
+V
+java:S1128"9Remove this unused import 'javafx.scene.layout.Priority'.(ë°ı8±ÚÉ“Ç1
+Q
+java:S1128"/Remove this unused import 'javafx.stage.Stage'.(æÄ¸²úÿÿÿÿ8±ÚÉ“Ç1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8²ÚÉ“Ç1
+@
+java:S1128"Remove this duplicated import.( ––ùşÿÿÿÿ8’²É“Ç1
+;
+java:S1128"Remove this duplicated import.(äê…8’²É“Ç1
